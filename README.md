@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoseQuartz24.
 - 👀 I’m interested in transitioning into a new career field.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me courtney.rose1234@gmail.com.
 
